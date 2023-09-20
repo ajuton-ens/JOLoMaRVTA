@@ -1,0 +1,9 @@
+site_name: Journée Outils Logiciels et Matériels pour la Recherche sur les Véhicules Terrestres Autonomes
+nav: 
+    - Home: index.md
+    - Programme : Programme.md
+    - Démonstrations : Demonstrations.md
+    - About: about.md
+theme: readthedocs
+site_url: https://ajuton-ens.github.io/JOLoMaRVTA/
+site_dir: public
