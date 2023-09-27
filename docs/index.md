@@ -43,9 +43,7 @@ La restauration est prise en charge par le réseau métiers des roboticiens et m
 
 L'inscription est gratuite mais obligatoire : [lien vers les inscriptions](https://evento.renater.fr/survey/inscription-journee-5-10-23-outils-logiciels-et-materiels-pour-la-recherche-sur-les-vehicules-terrestres-autonomes-i7ohgx69)
 
-<p style='text-align: justify;'>
-L'appel à contribution est terminé et le programme finalisé. Les personnes souhaitant présenter leurs travaux sous forme de poster (format A0, template sur ce site) ou présenter leur plateforme lors des démonstrations peuvent encore envoyer, par e-mail, leur proposition aux organisateurs.
-</p>
+L'appel à contribution est terminé et le programme finalisé. Les personnes souhaitant présenter leurs travaux sous forme de poster (format A0, template sur ce [lien](https://github.com/ajuton-ens/JOLoMaRVTA/tree/main/template_posters) ) ou présenter leur plateforme lors des démonstrations peuvent encore envoyer, par e-mail, leur proposition aux organisateurs.
 
 <img 
     style="display: block; 

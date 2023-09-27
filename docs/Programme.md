@@ -40,6 +40,17 @@ Horaire | Titre | Présentateur
     alt="logo course de voitures autonomes">
 </img>
 
+## Déjeuner
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 5%;"
+    src="https://github.com/ajuton-ens/JOLoMaRVTA/blob/main/docs/images/logo_CVAPS.png?raw=true" 
+    alt="logo course de voitures autonomes">
+</img>
+
 ## Session 3
 
 Horaire | Titre | Présentateur
